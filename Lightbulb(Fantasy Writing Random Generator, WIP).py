@@ -1,4 +1,3 @@
-#My APCSP Create Project!
 #This is intended to be a fantasy world random generator --> for creative inspiration in writing.
 
 import random
